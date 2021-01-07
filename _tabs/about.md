@@ -10,5 +10,5 @@ order: 4
 # MIT License
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+컴퓨터공학부에 재학중인 흔한 대학생이자 Python을 좋아하는 개발자.
+다른 사람들은 보통 여기에 기술 스택, 경력 등을 적던데 저는 뭘 적어야 하는걸까요.
